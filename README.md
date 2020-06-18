@@ -173,9 +173,3 @@ Gitbook 地址：https://labuladong.gitbook.io/algo/
 [yx-tan](https://github.com/yx-tan), 
 [Zero](https://github.com/Mr2er0), 
 [Ziming](https://github.com/ML-ZimingMeng/LeetCode-Python3)
-
-# Donate
-
-如果本仓库对你有帮助，可以请作者喝杯速溶咖啡
-
-<img src="pictures/pay.jpg" width = "200" align=center />
